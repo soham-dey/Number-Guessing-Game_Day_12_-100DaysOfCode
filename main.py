@@ -3,6 +3,7 @@ from replit import clear
 import random
 
 def game():
+  """Calls the number guessing game."""
   print(logo)
 
   print("\nWelcome to the Number Guessing Game!\nI am thinking of a number between 1 and 100.\n")
